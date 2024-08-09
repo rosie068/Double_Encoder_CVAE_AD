@@ -1,0 +1,5 @@
+﻿Img1,age1,Img2,status,timeDiff
+SID_000_I1.npy,50,SID_000_I2.npy,1,0.5
+SID_001_I1.npy,80,SID_001_I2.npy,5,2.3
+SID_002_I1.npy,76,SID_002_I2.npy,3,0.8
+SID_003_I1.npy,92,SID_003_I2.npy,5,5
