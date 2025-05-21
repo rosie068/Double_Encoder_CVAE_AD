@@ -1,5 +1,6 @@
 # Individualized multi-horizon MRI trajectory prediction for Alzheimer's Disease
-https://arxiv.org/abs/2408.02018
+[https://arxiv.org/abs/2408.02018
+](https://www.google.com/books/edition/Medical_Image_Computing_and_Computer_Ass/zXZVEQAAQBAJ?hl=en&gbpv=1&dq=info:Eh_jgeGC_c0J:scholar.google.com&pg=PA26&printsec=frontcover)
 
 ## Oral presentation at the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), Longitudinal Disease Tracking and Modelling Workshop, 2024
 
